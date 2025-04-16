@@ -1,4 +1,6 @@
 Birds Object Detection
+
+
 This project focuses on detecting various bird species in images using deep learning techniques. It leverages state-of-the-art object detection models to identify and classify birds in diverse environments.​
 
 Features
@@ -9,6 +11,8 @@ Supports training on custom bird datasets.
 Provides tools for evaluating model performance.
 
 Includes visualization utilities for detection results.​
+
+
 
 Installation
 Clone the repository:
